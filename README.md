@@ -1,3 +1,12 @@
-- First-year undergrad student interested in applied math and statistics 🧮 📊
-- Using GitHub to document my journey learning various technologies 🖥️ ✏️
- 
+      MMMM_    ,..,
+        "_ "__"MMMMM          ,...,,
+ ,..., __." --"    ,.,     _-"MMMMMMM
+MMMMMM"___ "_._   MMM"_."" _ """"""
+ """""    "" , \_.   "_. ."
+        ,., _"__ \__./ ."
+       MMMMM_"  "_    ./
+        ''''      (    )
+ ._______________.-'____"---._.
+  \                          /
+   \________________________/
+   (_)                    (_)
